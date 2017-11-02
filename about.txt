@@ -1,0 +1,10 @@
+Daniel Wajsman
+Priscila Hamaguchi
+Michika Hiratsuka
+
+We made a automatic html and update data to DB. 
+1. If you execute "createPicture.js", new index.html file from jpg files and connect firebase and create DB.
+2. If you execute "removePicture.js", you can remove data.
+3. If you execute "updatePicture.js", you can change the name of the specific image in DB.
+
+
